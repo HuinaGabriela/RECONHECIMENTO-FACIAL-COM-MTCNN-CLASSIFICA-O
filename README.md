@@ -1,4 +1,5 @@
 # RECONHECIMENTO-FACIAL-COM-MTCNN-CLASSIFICA-O
+ EM ANDAMENTO... não esta perfomando bem, reconhecimento com pouca precisão (tentar trocar para o ResNet50)
 
 🎯 Objetivo do Projeto
 
