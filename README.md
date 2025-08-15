@@ -1,7 +1,7 @@
 Reconhecimento-Facial-com-MTCNN-e-FaceNet-KNN
  
 
-🧠 Reconhecimento Facial com FaceNet + KNN
+🧠 # Reconhecimento Facial com MTCNN e KNN
 
 Este projeto realiza reconhecimento facial utilizando a rede pré-treinada FaceNet para gerar embeddings (vetores de características) de rostos, e um classificador KNN (K-Nearest Neighbors) para identificar pessoas com base nesses embeddings.
 
@@ -21,9 +21,12 @@ Google Colab
 
 dataset.zip: Imagens organizadas em pastas por pessoa (ex: John_Lennon/, Paul_McCartney/).
 
+
 beatles_group.PNG: Imagem com várias pessoas para teste.
 
+
 knn_face_classifier.joblib: Modelo KNN treinado salvo.
+
 
 🚀 Etapas do projeto
 
@@ -46,3 +49,10 @@ Avaliação com métricas (precisão, recall, f1-score).
 Precisão de 100% na avaliação de teste.
 
 Visualização com t-SNE mostrou separação clara entre os indivíduos.
+
+## Resultado do Reconhecimento
+
+Imagem gerada com as faces detectadas e reconhecidas:
+
+![Resultado do Reconhecimento](grupo_reconhecido.png)
+
