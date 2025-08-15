@@ -1,7 +1,4 @@
-Reconhecimento-Facial-com-MTCNN-e-FaceNet-KNN
- 
-
-🧠 # Reconhecimento Facial com MTCNN e KNN
+🧠 ## Reconhecimento-Facial-com-MTCNN-e-FaceNet-KNN
 
 Este projeto realiza reconhecimento facial utilizando a rede pré-treinada FaceNet para gerar embeddings (vetores de características) de rostos, e um classificador KNN (K-Nearest Neighbors) para identificar pessoas com base nesses embeddings.
 
