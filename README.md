@@ -53,3 +53,23 @@ Imagem gerada com as faces detectadas e reconhecidas:
 
 ![Resultado do Reconhecimento](grupo_reconhecido.png)
 
+
+
+
+MTSNN
+
+https://mtcnn.readthedocs.io/en/latest/usage/
+
+https://medium.com/data-science/face-detection-using-mtcnn-a-guide-for-face-extraction-with-a-focus-on-speed-c6d59f82d49
+
+
+https://medium.com/hackernoon/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8
+
+https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/
+
+
+FaceNet em Keras
+
+https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
+
+https://pyimagesearch.com/2023/01/09/face-recognition-with-siamese-networks-keras-and-tensorflow/
